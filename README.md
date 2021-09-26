@@ -25,4 +25,4 @@ https://twitter.com/UriShaked autor
 
 https://www.tindie.com/products/wokwi/splendida/ buy it here
 
-I make nice looking ( i hope) ) shell wit diffuser for it. Grab it here https://www.thingiverse.com/thing:4791860   
+I make nice looking ( i hope) ) shell with diffuser for it. Grab it here https://www.thingiverse.com/thing:4791860   
