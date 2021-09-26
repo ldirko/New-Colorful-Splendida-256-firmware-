@@ -1,0 +1,1 @@
+# New-Colorful-Splendida-256-firmware-
