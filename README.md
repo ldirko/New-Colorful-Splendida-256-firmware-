@@ -6,7 +6,9 @@ Attach button to pin what you want and gnd and chande defaul button pin to your 
 
 Controls: 
 
-Firm start with Automode ON and if button not press patterns change in loop. If one click buttons Automode is OFF and you can cnange next pattern by one click button.
+Firm start with Automode ON and if button not press patterns change in loop. 
+
+If one click buttons Automode is OFF and you can cnange next pattern by one click button.
 
 if button is double clicked bright is change in loop from 0 to max bright with 7 steps (i think this is best method to control bright). Double click not affect to Automode state.
 
