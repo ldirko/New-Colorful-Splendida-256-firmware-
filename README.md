@@ -2,6 +2,7 @@
 This new Fall 2021 firmware fo Splendida 256 by WOKWI with new and most colorful effects.
 
 This sketch use one button to control patterns and bright. And esp32 M5 Atom lite with builtin button is ideal for this sketch (yes, i use Atom lite)
+Attach button to pin what you want and gnd and chande defaul buttom pin to your pin.
 
 Controls: 
 
