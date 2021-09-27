@@ -7,7 +7,7 @@
 
 //controls: from start automode is enable and patterns change in loop 
 //one button click change pattern to next and automode is OFF
-//double click change bright in loop 0..maxbright with 8 steps. not affect to Automode
+//double click change bright in loop 0..maxbright with 7 steps. not affect to Automode
 //long press activate Automode ON  
 
 
