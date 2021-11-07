@@ -539,7 +539,7 @@ void Cilindrical_Pattern() {
 void Spiral () {
 
  uint16_t a=millis()/8;
- float scale = sin(a/32*PI/180)*12;
+ float scale = (sin(a/32*PI/180)*18)-6;
 
  float scale1 =0;
   for (int i = 0; i < NUM_COLS_CILINDR; i++) {
