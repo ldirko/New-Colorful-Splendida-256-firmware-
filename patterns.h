@@ -503,7 +503,8 @@ void Swirl() {
 
   for (int j = 0; j < NUM_ROWS_CILINDR; j++) {
     for (int i = 0; i < NUM_COLS_CILINDR; i++) {
-      uint16_t index = XY_CILINDR(i,j);
+      uint16_t index = XY_CILINDR((i+a/32)%NUM_COLS_CILINDR,j);
+
       if (index==lastSafeIndex) continue;
       // leds[index].setHue(i*54+(a>>2)+(sin8(j*16+a))>>1); 
       byte hue = i*56+(a>>2)+(sin8(j*16+a))>>1; 
